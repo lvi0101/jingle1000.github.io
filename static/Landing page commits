@@ -1,0 +1,14 @@
+       <div class="row-product col-md-6">
+ (ln 148)         <h3>Interactive Design</h3>
+  (ln 149)       <p class="feature-text">When you make connections with others, you can view them in our interactive display - See-Re-al Map!</p>
+        </div>
+        <!-- <div class="col-md-6 product-img" style="background: url({% static 'img/product1.jpg' %}) no-repeat center center; background-size: cover;"></div> -->
+        <div class="col-md-6" style="padding: 0px !important; background: #b2bec3;"
+___________________--
+          <div class="col-xl-9 mx-auto">
+  (ln 100)        <h1 class="hero-heading mb-5">See-Re-al Connections Make Real Connections</h1>
+          <div class="col-12">
+__________________
+
+
+        
