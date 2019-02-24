@@ -1,0 +1,31 @@
+       (123)   <h3>See Connections</h1>
+        (124)    <p class="feature-text mt-2">A revolutionary networking tool to illustrate your connections to others!</p>
+__________
+       </div>
+  (130)        <h3>Make Connections</h1>
+  (131)          <p class="feature-text">Boxes and the See-Re-al Map allow you to join new groups and meet people !</p>
+        </div>
+        <div class="col-md-4">
+______________-
+           <h3>Easy To Use</h1>
+  (138)          <p class="feature-text">Customize your box with interests and shows you connections to others!</p>
+        </div>
+__________________
+  (157)  </div>
+    *delete*
+  (158) </section>
+      <!-- reviews -->
+      <section class="reviews bg-light">
+____________
+    (210)      <ul class="list-inline">
+          *delete*
+    (211)        <li class="list-inline-item"><a href="#">Home</a></li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item"><a href="#">About</a></li>
+____________
+     (240)    </div>
+         <div class="row mb-2">
+         *delete*
+      (242)      <p class="text-muted small mb-4 mb-lg-0">&copy; See-Re-al 2019. All Rights Reserved.</p>
+          </div>
+           
